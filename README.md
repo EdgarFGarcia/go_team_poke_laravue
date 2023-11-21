@@ -1,4 +1,4 @@
-# Setip
+# Setup
 
 ## Laravel
 ### setup 
